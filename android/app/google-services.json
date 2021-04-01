@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "456198487484",
+    "project_id": "weatherx-13017",
+    "storage_bucket": "weatherx-13017.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456198487484:android:5b551f04a841aaf28a3fb9",
+        "android_client_info": {
+          "package_name": "com.tahirdev.weatherx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456198487484-mouhobl8eoqk53ru1msmm0vreijrap7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFW21SkorXNAsrlZlIhHXl8iahlZ2KEgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456198487484-mouhobl8eoqk53ru1msmm0vreijrap7g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "456198487484-736ivve2q2quc0ji5dpftuqqdsn3g5du.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tahirdev.weatherx"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456198487484:android:2057ab025e7d20128a3fb9",
+        "android_client_info": {
+          "package_name": "com.tahirdev.weatherx.weatherx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456198487484-mouhobl8eoqk53ru1msmm0vreijrap7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFW21SkorXNAsrlZlIhHXl8iahlZ2KEgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456198487484-mouhobl8eoqk53ru1msmm0vreijrap7g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "456198487484-736ivve2q2quc0ji5dpftuqqdsn3g5du.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tahirdev.weatherx"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
